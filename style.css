@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color: white;
+    position: sticky;
+     box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+
+}
+.store_name{
+    align-items: flex-start;
+}
+.nav-catogeries{
+    margin-left: 100px;
+}
+.nav-bar2{
+    display: flex;
+}
+nav ul li{
+    margin-right: 40px;
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.nav-bar-icon{
+     display: flex;
+
+}
+
+.nav-icon{
+     margin-left: auto;
+     margin-right: 0;
+}
+
+.account{
+    width: 25px;
+    height: 25px;
+}
